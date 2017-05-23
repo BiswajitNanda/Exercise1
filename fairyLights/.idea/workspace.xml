@@ -1,21 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c13244d6-381c-4d70-98d0-cb293965ca8b" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/markdown-navigator/profiles_settings.xml" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/Light.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LightSEQ.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LightsALT.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/LightsCOL.bat" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/fairylights.jar" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/manifest.mf" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/co/alectronic/Light.java" afterPath="$PROJECT_DIR$/src/Mainclasses/Light.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/co/alectronic/LightArray.java" afterPath="$PROJECT_DIR$/src/Mainclasses/AllLights.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/co/alectronic/Main.java" afterPath="$PROJECT_DIR$/src/Mainclasses/Main.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-    </list>
+    <list default="true" id="c13244d6-381c-4d70-98d0-cb293965ca8b" name="Default" comment="" />
     <ignored path="lights.iws" />
     <ignored path=".idea/workspace.xml" />
     <ignored path="$PROJECT_DIR$/out/" />
@@ -63,8 +49,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="119">
-                <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+              <first_editor relative-caret-position="101">
+                <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
                 <folding />
               </first_editor>
               <second_editor />
@@ -127,11 +113,11 @@
         <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-255">
-              <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+              <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
               <folding>
-                <marker date="1495559622242" expanded="true" signature="54242:54259" placeholder="..." />
-                <marker date="1495559622242" expanded="true" signature="54242:54277" placeholder="..." />
-                <marker date="1495559622242" expanded="true" signature="54242:54290" placeholder="..." />
+                <marker date="1495561126168" expanded="true" signature="52851:52868" placeholder="..." />
+                <marker date="1495561126168" expanded="true" signature="52851:52886" placeholder="..." />
+                <marker date="1495561126168" expanded="true" signature="52851:52899" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -873,11 +859,11 @@
     <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-255">
-          <caret line="5" column="28" selection-start-line="5" selection-start-column="28" selection-end-line="5" selection-end-column="28" />
+          <caret line="1" column="21" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
           <folding>
-            <marker date="1495559622242" expanded="true" signature="54242:54259" placeholder="..." />
-            <marker date="1495559622242" expanded="true" signature="54242:54277" placeholder="..." />
-            <marker date="1495559622242" expanded="true" signature="54242:54290" placeholder="..." />
+            <marker date="1495561126168" expanded="true" signature="52851:52868" placeholder="..." />
+            <marker date="1495561126168" expanded="true" signature="52851:52886" placeholder="..." />
+            <marker date="1495561126168" expanded="true" signature="52851:52899" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -922,8 +908,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="119">
-            <caret line="7" column="63" selection-start-line="7" selection-start-column="63" selection-end-line="7" selection-end-column="63" />
+          <first_editor relative-caret-position="101">
+            <caret line="16" column="0" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
             <folding />
           </first_editor>
           <second_editor />
